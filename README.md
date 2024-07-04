@@ -6,14 +6,13 @@ username: admin
 password: 12345678
 
 URL PETICION
-https://tu api url/api/Conversion
-ej: https://localhost:7289/api/Conversion
+http://www.ApiPruebaTecnica-Inalambria.somee.com/api/Conversion
 Nota: la peticion debe ser POST
 
-VALOR DEL EJEMPPLO
+VALOR DEL EJEMPLO
 {
   "number": 10
 }
 
 
-IMPORTANTE: la prueba se debería de realizarla con la herramienta POSTMAN debido al metodo de autenticacion que se implementa.
+IMPORTANTE: la prueba se debería de realizarla con la herramienta POSTMAN o cualquiera version en linea o portable, debido al metodo de autenticacion que se implementa.
